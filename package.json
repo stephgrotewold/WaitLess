@@ -1,0 +1,25 @@
+{
+  "name": "waitless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephgrotewold/WaitLess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephgrotewold/WaitLess/issues"
+  },
+  "homepage": "https://github.com/stephgrotewold/WaitLess#readme",
+  "dependencies": {
+    "expo": "^51.0.38",
+    "ipaddr.js": "^2.2.0",
+    "metro": "^0.81.0",
+    "react-native": "^0.75.4"
+  }
+}
